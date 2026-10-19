@@ -7,7 +7,7 @@ A simple web app that checks a suspicious SMS, UPI request or WhatsApp message a
 > learn the tricks *after* being scammed. This project explains the red flags in the message itself.
 
 ![Detection screen](data/detection.png)
-![Explanation screen](data/explanation.png)
+![Explanation screen](data/Explanation.png)
 
 ## Features
 - **Verdict:** Scam / Suspicious / Looks safe, with a risk score
