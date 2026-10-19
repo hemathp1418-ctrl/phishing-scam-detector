@@ -6,7 +6,8 @@ A simple web app that checks a suspicious SMS, UPI request or WhatsApp message a
 > India loses thousands of crores every year to UPI, KYC and phishing scams. Most people only
 > learn the tricks *after* being scammed. This project explains the red flags in the message itself.
 
-<!-- Add a screenshot or demo GIF here: ![demo](docs/demo.png) -->
+![Detection screen](data/detection.png)
+![Explanation screen](data/explanation.png)
 
 ## Features
 - **Verdict:** Scam / Suspicious / Looks safe, with a risk score
